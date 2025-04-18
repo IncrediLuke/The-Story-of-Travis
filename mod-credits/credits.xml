@@ -1,0 +1,41 @@
+<!--
+FORMATTING:
+• (!line) - new line
+• (!bold/TEXT) - bold text
+• (!underline/TEXT) - underlined text
+• (!italic/text) - italic text
+• (!color/#HEX/TEXT) - colored text
+• (!emoji/EMOJI.png) - emoji
+• (!size/XXpx/TEXT) - text size
+• (!youtube/VIDEO_URL) - youtube video
+• (!button/#HEX/ICON.png/LINK/TEXT) - button
+• (!hr) - horizontal line
+-->
+
+<credits>
+  <page 
+  noImage="false"
+  image="mod-credits/travis-credits.png"
+  title="Thank you for playing!"
+  text="Developed by (!bold/Poggers Gang):(!line)Artemiy Kopych - Director, Supervisor(!line)PersonFromBrazil - Animator, Illustrator, Composer(!line)Rem - Animator, Illustrator(!line)Masker - Animator(!line)Gontale - Bonus 2 and 3 Animator(!line)InklingCurry - Animator(!line)Maxicc - Composer(!line)Alex Ivan - Composer(!line)donut hoolie - Designer(!line)GasterDoggo - Designer, Artist(!line)Elenaker - Concept Artist(!line)The Thing - Illustrator(!line)(!line)(!hr)(!line)Special thanks to BBoxer, Isaac Huddleston, IagoAnims and MagicBunnyStar!"
+  />
+  <page 
+  noImage="false"
+  image="mod-credits/01c_remmie-hd.png"
+  title="Modding build created by Rem!"
+  text="Incredibox Modding Build created with passion by (!color/#64b1e8/(!bold/Rem))! Love creative mods and unique sounds? Support her work and explore more on her channel! (!line)(!line)(!hr)(!line) (!button/#8f1e22/social_youtube.png/https://www.youtube.com/@rin.Incredibox//Rem's Channel)"
+  />
+  <page 
+  noImage="false"
+  image="mod-credits/03c_sofarsogood-hd.png"
+  title="INCREDIBOX BY SO FAR SO GOOD!"
+  text="And of course the official developers of Incredibox, (!bold/Allan), (!bold/Romain) and Incredible (!bold/Polo)! Without them, this project wouldn't exist! (!line)(!line)(!hr)(!line)Buy Official Incredibox for more fun and to support the team!(!line)(!line)(!button/#4A4A4A/sfsg-credits-button.png/https://www.incredibox.com//Incredibox Website)(!button/#4A4A4A/sfsg-credits-button.png/https://www.incredibox.com/info/store/Buy Incredibox)"
+  />
+  <page 
+  noImage="true"
+  image=""
+  text="(!button/#00060f/social_website.png/https://www.youtube.com/@TravisEnigmaCaseArchives//???)"
+  />
+</credits>
+
+<!--You can edit or change my credits, but please remember to credit me somewhere as well for using my build! Thank you! ✨-->
